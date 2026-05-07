@@ -1,0 +1,9 @@
+streamlit>=1.36
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+plotly>=5.20
+rdkit-pypi>=2022.9.5
+xgboost>=2.0
+shap>=0.44
+pillow>=10.0
