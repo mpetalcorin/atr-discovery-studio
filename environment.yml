@@ -1,0 +1,6 @@
+name: atr-discovery-studio
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - rdkit=2024.03.5
